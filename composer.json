@@ -71,6 +71,12 @@
             "web/profiles/contrib/{$name}": ["type:drupal-profile"],
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
-        }
+        },
+        "patches": {
+            "drupal/core": {
+                "2559961-17": "https://www.drupal.org/files/issues/2559961-17.patch"
+            }
+        },
+        "composer-exit-on-patch-failure": true
     }
 }
