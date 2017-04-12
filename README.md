@@ -5,5 +5,5 @@ To setup locally with amazee.io:
 - start container with `docker-compose up -d`
 - login to container with `docker-compose exec --user drupal drupal bash`
 - import database with `drush sqlq --file=$HOME/public_html/database_dumps/2559961.sql.gz`
-- login with `drush uli --uri=http://drupal-2559961.docker.amazee.io`
+- login with `drush uli`
 - check view at http://drupal-2559961.docker.amazee.io/admin/structure/views/view/2559961
