@@ -1,0 +1,9 @@
+uuid: 5bbd534f-2225-4be8-9c4c-e0c8ca45130e
+langcode: en
+status: true
+dependencies: {  }
+name: taxonomy_b
+vid: taxonomy_b
+description: ''
+hierarchy: 0
+weight: 0

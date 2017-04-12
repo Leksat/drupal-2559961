@@ -1,0 +1,14 @@
+uuid: 450fe466-cc48-44e2-88a1-d6730a62e62d
+name: dcomposer
+mail: alex.leksat@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
